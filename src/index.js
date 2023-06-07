@@ -1,3 +1,9 @@
-import analyzer from './analyzer.js';
+import analyzer from "analyzer.js"
+const an= page 
 
-//TODO: escuchar eventos del DOM e invocar  los métodos del objeto `analyzer`
+an.addEventListener( 'keyup' , (e=>{
+
+
+
+    
+}))
