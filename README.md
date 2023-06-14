@@ -200,7 +200,7 @@ relacionados con cada objetivo de aprendizaje.
   ingresar un texto. Para que puedas practicar más, este elemento no puede
   tener atributos `id`, ni `class`.
 
-  - [ ] La aplicación usa un
+  - [x] La aplicación usa un
   [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   con 6 hijos [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li),
   uno para mostrar cada métrica.  Para que puedas practicar más, estos
@@ -214,7 +214,7 @@ relacionados con cada objetivo de aprendizaje.
   Para que puedas practicar más, estos elementos no pueden
   tener atributos `id`, ni `name`, ni `class`.
 
-  - [] La aplicación usa un
+  - [x] La aplicación usa un
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
   con el atributo `id` en el valor `reset-button` para permitir al usuario,
   mediante un clic, limpiar el contenido de la caja de texto.
@@ -223,14 +223,14 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de selectores de CSS**  
 
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de tipo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#type_selectors)
   para darle estilo al
   [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
   y al
   [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer).
   
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de class`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)
   para darle estilo al
   [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
@@ -238,13 +238,13 @@ relacionados con cada objetivo de aprendizaje.
   y sus hijos
   [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li).
   
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores de atributo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
   para darle estilo al
   [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
   usando el atributo `name`.
 
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de ID`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#id_selectors)
   para darle estilo al
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
@@ -252,7 +252,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Modelo de caja (box model): border, margen, padding**
 
-  - [ ] Las
+  - [x] Las
   [`clases css`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)
   de los
   [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
@@ -269,15 +269,15 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de selectores del DOM**
 
-  - [ ] La aplicación usa el
+  - [x] La aplicación usa el
   [`selector del DOM querySelector`](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector).
 
-  - [ ] La aplicación usa el
+  - [x] La aplicación usa el
   [`selector del DOM getElementById`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById).
   
 * **Manejo de eventos del DOM (listeners, propagación, delegación)**
 
-  - [ ] La aplicación registra un
+  - [x] La aplicación registra un
   [Event Listener](https://developer.mozilla.org/en/docs/Web/API/EventTarget/addEventListener)
   para escuchar el evento `keyup` del `<textarea>` para actualizar las métricas
   cuando se haga escriba en el cuadro de texto.
@@ -298,7 +298,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Tipos de datos primitivos**
 
-  - [ ] La aplicación convierte valores tipo `string` a tipo `number`.
+  - [x] La aplicación convierte valores tipo `string` a tipo `number`.
 
 * **Strings (cadenas de caracteres)**
 
@@ -315,7 +315,7 @@ relacionados con cada objetivo de aprendizaje.
   y
   [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const).
 
-  - [ ] La aplicación NO declara variables con  `var`.
+  - [x] La aplicación NO declara variables con  `var`.
 
 * **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
@@ -356,7 +356,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Módulos de ECMAScript (ES Modules)**
 
-  - [ ] La aplicación usan
+  - [x] La aplicación usan
   [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   y
   [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
@@ -375,17 +375,17 @@ relacionados con cada objetivo de aprendizaje.
 
 * **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
-  - [ ] La estudiante creó una cuenta en Github.
+  - [x] La estudiante creó una cuenta en Github.
 
-  - [ ] La estudiante configuró su cuenta de Github con una llave SSH.
+  - [x] La estudiante configuró su cuenta de Github con una llave SSH.
 
 * **Git: Control de versiones con git (clone, add, commit, push)**
 
-  - [ ] La estudiante creó un _fork_ para su proyecto.
+  - [x] La estudiante creó un _fork_ para su proyecto.
 
-  - [ ] La estudiante clonó su repositorio usando una llave SSH.
+  - [x] La estudiante clonó su repositorio usando una llave SSH.
 
-  - [ ] La estudiante creó _commits_ y los guardó en Github.
+  - [x] La estudiante creó _commits_ y los guardó en Github.
 
 * **GitHub: Despliegue con GitHub Pages**
 
@@ -404,7 +404,7 @@ usuarias en el centro**
 
 * **Seguir los principios básicos de diseño visual**
 
-  - [ ] Se tuvieron en cuenta las reglas básica del
+  - [x] Se tuvieron en cuenta las reglas básica del
   [diseño visual](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Reglas-basicas-de-diseno-visual_suVcO)
   para diseñar la UI (interfáz gráfica)
 
