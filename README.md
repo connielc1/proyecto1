@@ -282,13 +282,13 @@ relacionados con cada objetivo de aprendizaje.
   para escuchar el evento `keyup` del `<textarea>` para actualizar las métricas
   cuando se haga escriba en el cuadro de texto.
 
-  - [ ] La aplicación registra un
+  - [x] La aplicación registra un
   [Event Listener](https://developer.mozilla.org/en/docs/Web/API/EventTarget/addEventListener)
   para escuchar el evento `click` del `<button>` que limpia el contenido de la
   caja de texto.
 
 * **Manipulación dinámica del DOM**
-  - [ ] La aplicación actualiza el atributo
+  - [x] La aplicación actualiza el atributo
   [`textContent`](https://developer.mozilla.org/es/docs/Web/API/Node/textContent)
   o
   [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML)
@@ -310,7 +310,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Variables (declaración, asignación, ámbito)**
 
-  - [ ] La aplicación declara variables con
+  - [x] La aplicación declara variables con
   [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
   y
   [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const).
@@ -400,7 +400,7 @@ usuarias en el centro**
 
 * **Diseñar en distintos niveles de fidelidad**
 
-  - [ ] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
+  - [x] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
 
 * **Seguir los principios básicos de diseño visual**
 
