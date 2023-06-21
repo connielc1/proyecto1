@@ -302,7 +302,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Strings (cadenas de caracteres)**
 
-  - [ ] La aplicación usa métodos para manipular strings como
+  - [x] La aplicación usa métodos para manipular strings como
   [`split`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split),
   [`trim`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim)
   o
@@ -331,13 +331,13 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Funciones (params, args, return)**
 
-  - [ ] El objeto `analyzer` contiene un método `getWordCount` para calcular el
+  - [x] El objeto `analyzer` contiene un método `getWordCount` para calcular el
   recuento de palabras de un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getCharacterCount` para calcular
+  - [x] El objeto `analyzer` contiene un método `getCharacterCount` para calcular
   el recuento de caracteres de un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getCharacterCountExcludingSpaces`
+  - [x] El objeto `analyzer` contiene un método `getCharacterCountExcludingSpaces`
   para calcular el recuento de caracteres excluyendo espacios y signos de
   puntuación de un texto.
 
