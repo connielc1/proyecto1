@@ -1,8 +1,10 @@
 # Readme: Funcionalidad del proyecto
 
 ## Text analyzer:
-Esta página funciona como un elemento que recuenta caracteres, palabras, números y más a la hora de ingresar texto en un área de caja. De forma inmediata, la página mostrará el conteo de los diferentes elementos que el usuario ingrese, incluyendolos númeoros y la suma separado de los recuento de palabras y caracteres. Bajo la caja, existe un botón. Si el texto que ingresaste ya fue analizado y se desea ingresar otro,se puede apretar el botón de limpiar métricas para que se reinicie el proceso y el anterior sea eliminado.
-De esta maera, el usuario puede ingresar información para poder hacer diferentes trabajos que se deseen, como un poema o una historia que necesita una selección específica de caracteres o palabras.
+Esta página funciona como un elemento que recuenta caracteres, palabras, números y más a la hora de ingresar texto en un área de caja. De forma inmediata, la página mostrará el conteo de los diferentes elementos que el usuario ingrese, incluyendolos númeoros y la suma separado de los recuento de palabras y caracteres. 
+Bajo la caja en la que se ingresa texto escogido po rel usuario, existe un botón. Si el texto que ingresaste ya fue analizado y se desea ingresar otro,se puede apretar el botón de limpiar métricas para que se reinicie el proceso y el anterior sea eliminado.
+De esta manera, el usuario puede ingresar información para poder hacer diferentes trabajos que se deseen, como un poema o una historia que necesita una selección específica de caracteres o palabras.
+Se ha elegido una paleta de colores suave y pastel en el fondo, con un gris oscuro colocado en las palabras para un contraste que haga visible y visualmente armonioso el proyecto para una experiencia mucho más amena.
 
 # Analizador de texto
 
