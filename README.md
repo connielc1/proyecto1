@@ -696,11 +696,11 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### Control de Versiones (Git y GitHub)
 
-- [ ] **Git: Instalación y configuración**
+- [x] **Git: Instalación y configuración**
 
-- [ ] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
+- [x] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
 
-- [ ] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
+- [x] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
 - [ ] **GitHub: Despliegue con GitHub Pages**
 
