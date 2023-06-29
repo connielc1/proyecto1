@@ -1,3 +1,11 @@
+# Readme: Funcionalidad del proyecto
+
+## Text analyzer:
+Esta página funciona como un elemento que recuenta caracteres, palabras, números y más a la hora de ingresar texto en un área de caja. De forma inmediata, la página mostrará el conteo de los diferentes elementos que el usuario ingrese, incluyendolos númeoros y la suma separado de los recuento de palabras y caracteres. 
+Bajo la caja en la que se ingresa texto escogido po rel usuario, existe un botón. Si el texto que ingresaste ya fue analizado y se desea ingresar otro,se puede apretar el botón de limpiar métricas para que se reinicie el proceso y el anterior sea eliminado.
+De esta manera, el usuario puede ingresar información para poder hacer diferentes trabajos que se deseen, como un poema o una historia que necesita una selección específica de caracteres o palabras.
+Se ha elegido una paleta de colores suave y pastel en el fondo, con un gris oscuro colocado en las palabras para un contraste que haga visible y visualmente armonioso el proyecto para una experiencia mucho más amena.
+
 # Analizador de texto
 
 ## Índice
@@ -199,7 +207,7 @@ relacionados con cada objetivo de aprendizaje.
   ingresar un texto. Para que puedas practicar más, este elemento no puede
   tener atributos `id`, ni `class`.
 
-  - [ ] La aplicación usa un
+  - [x] La aplicación usa un
   [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   con 6 hijos [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li),
   uno para mostrar cada métrica.  Para que puedas practicar más, estos
@@ -213,7 +221,7 @@ relacionados con cada objetivo de aprendizaje.
   Para que puedas practicar más, estos elementos no pueden
   tener atributos `id`, ni `name`, ni `class`.
 
-  - [] La aplicación usa un
+  - [x] La aplicación usa un
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
   con el atributo `id` en el valor `reset-button` para permitir al usuario,
   mediante un clic, limpiar el contenido de la caja de texto.
@@ -222,14 +230,14 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de selectores de CSS**  
 
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de tipo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#type_selectors)
   para darle estilo al
   [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
   y al
   [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer).
   
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de class`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)
   para darle estilo al
   [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
@@ -237,13 +245,13 @@ relacionados con cada objetivo de aprendizaje.
   y sus hijos
   [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li).
   
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores de atributo`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
   para darle estilo al
   [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
   usando el atributo `name`.
 
-  - [ ] La aplicación usa
+  - [x] La aplicación usa
   [`selectores CSS de ID`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#id_selectors)
   para darle estilo al
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
@@ -251,7 +259,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Modelo de caja (box model): border, margen, padding**
 
-  - [ ] Las
+  - [x] Las
   [`clases css`](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)
   de los
   [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
@@ -268,26 +276,26 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de selectores del DOM**
 
-  - [ ] La aplicación usa el
+  - [x] La aplicación usa el
   [`selector del DOM querySelector`](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector).
 
-  - [ ] La aplicación usa el
+  - [x] La aplicación usa el
   [`selector del DOM getElementById`](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById).
   
 * **Manejo de eventos del DOM (listeners, propagación, delegación)**
 
-  - [ ] La aplicación registra un
+  - [x] La aplicación registra un
   [Event Listener](https://developer.mozilla.org/en/docs/Web/API/EventTarget/addEventListener)
   para escuchar el evento `keyup` del `<textarea>` para actualizar las métricas
   cuando se haga escriba en el cuadro de texto.
 
-  - [ ] La aplicación registra un
+  - [x] La aplicación registra un
   [Event Listener](https://developer.mozilla.org/en/docs/Web/API/EventTarget/addEventListener)
   para escuchar el evento `click` del `<button>` que limpia el contenido de la
   caja de texto.
 
 * **Manipulación dinámica del DOM**
-  - [ ] La aplicación actualiza el atributo
+  - [x] La aplicación actualiza el atributo
   [`textContent`](https://developer.mozilla.org/es/docs/Web/API/Node/textContent)
   o
   [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML)
@@ -297,11 +305,11 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Tipos de datos primitivos**
 
-  - [ ] La aplicación convierte valores tipo `string` a tipo `number`.
+  - [x] La aplicación convierte valores tipo `string` a tipo `number`.
 
 * **Strings (cadenas de caracteres)**
 
-  - [ ] La aplicación usa métodos para manipular strings como
+  - [x] La aplicación usa métodos para manipular strings como
   [`split`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split),
   [`trim`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim)
   o
@@ -309,12 +317,12 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Variables (declaración, asignación, ámbito)**
 
-  - [ ] La aplicación declara variables con
+  - [x] La aplicación declara variables con
   [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
   y
   [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const).
 
-  - [ ] La aplicación NO declara variables con  `var`.
+  - [x] La aplicación NO declara variables con  `var`.
 
 * **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
@@ -330,23 +338,23 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Funciones (params, args, return)**
 
-  - [ ] El objeto `analyzer` contiene un método `getWordCount` para calcular el
+  - [x] El objeto `analyzer` contiene un método `getWordCount` para calcular el
   recuento de palabras de un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getCharacterCount` para calcular
+  - [x] El objeto `analyzer` contiene un método `getCharacterCount` para calcular
   el recuento de caracteres de un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getCharacterCountExcludingSpaces`
+  - [x] El objeto `analyzer` contiene un método `getCharacterCountExcludingSpaces`
   para calcular el recuento de caracteres excluyendo espacios y signos de
   puntuación de un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getNumbersCount` para contar
+  - [x] El objeto `analyzer` contiene un método `getNumbersCount` para contar
   cúantos números hay en un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getNumbersSum` para la suma
+  - [x] El objeto `analyzer` contiene un método `getNumbersSum` para la suma
   longitud media de los números en un texto.
 
-  - [ ] El objeto `analyzer` contiene un método `getAverageWordLength` para
+  - [x] El objeto `analyzer` contiene un método `getAverageWordLength` para
   calcular la longitud media de las palabras en un texto.
 
 * **Pruebas unitarias (unit tests)**
@@ -355,7 +363,7 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Módulos de ECMAScript (ES Modules)**
 
-  - [ ] La aplicación usan
+  - [x] La aplicación usan
   [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   y
   [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
@@ -363,28 +371,28 @@ relacionados con cada objetivo de aprendizaje.
 
 * **Uso de linter (ESLINT)**
 
-  - [ ] Al ejecutar el linter no se muestran errores de formato y estilo.
+  - [x] Al ejecutar el linter no se muestran errores de formato y estilo.
 
 * **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
-  - [ ] En el código se utilizan identificadores descriptivos para variables
+  - [x] En el código se utilizan identificadores descriptivos para variables
   y funciones.
 
 ### Control de Versiones (Git y GitHub)
 
 * **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
-  - [ ] La estudiante creó una cuenta en Github.
+  - [x] La estudiante creó una cuenta en Github.
 
-  - [ ] La estudiante configuró su cuenta de Github con una llave SSH.
+  - [x] La estudiante configuró su cuenta de Github con una llave SSH.
 
 * **Git: Control de versiones con git (clone, add, commit, push)**
 
-  - [ ] La estudiante creó un _fork_ para su proyecto.
+  - [x] La estudiante creó un _fork_ para su proyecto.
 
-  - [ ] La estudiante clonó su repositorio usando una llave SSH.
+  - [x] La estudiante clonó su repositorio usando una llave SSH.
 
-  - [ ] La estudiante creó _commits_ y los guardó en Github.
+  - [x] La estudiante creó _commits_ y los guardó en Github.
 
 * **GitHub: Despliegue con GitHub Pages**
 
@@ -399,11 +407,11 @@ usuarias en el centro**
 
 * **Diseñar en distintos niveles de fidelidad**
 
-  - [ ] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
+  - [x] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
 
 * **Seguir los principios básicos de diseño visual**
 
-  - [ ] Se tuvieron en cuenta las reglas básica del
+  - [x] Se tuvieron en cuenta las reglas básica del
   [diseño visual](https://coda.io/d/Bootcamp-UX-Contenido_dqkqk2rV9Z2/Reglas-basicas-de-diseno-visual_suVcO)
   para diseñar la UI (interfáz gráfica)
 
@@ -553,7 +561,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### HTML
 
-- [ ] **Uso de HTML semántico**
+- [x] **Uso de HTML semántico**
 
   <details><summary>Links</summary><p>
 
@@ -563,7 +571,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### CSS
 
-- [ ] **Uso de selectores de CSS**
+- [x] **Uso de selectores de CSS**
 
   <details><summary>Links</summary><p>
 
@@ -571,7 +579,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [CSS Selectors - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
 </p></details>
 
-- [ ] **Modelo de caja (box model): borde, margen, padding**
+- [x] **Modelo de caja (box model): borde, margen, padding**
 
   <details><summary>Links</summary><p>
 
@@ -584,7 +592,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### Web APIs
 
-- [ ] **Uso de selectores del DOM**
+- [x] **Uso de selectores del DOM**
 
   <details><summary>Links</summary><p>
 
@@ -593,7 +601,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Localizando elementos DOM usando selectores - MDN](https://developer.mozilla.org/es/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
 </p></details>
 
-- [ ] **Manejo de eventos del DOM (listeners, propagación, delegación)**
+- [x] **Manejo de eventos del DOM (listeners, propagación, delegación)**
 
   <details><summary>Links</summary><p>
 
@@ -603,7 +611,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [El objeto Event](https://developer.mozilla.org/es/docs/Web/API/Event)
 </p></details>
 
-- [ ] **Manipulación dinámica del DOM**
+- [x] **Manipulación dinámica del DOM**
 
   <details><summary>Links</summary><p>
 
@@ -617,14 +625,14 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### JavaScript
 
-- [ ] **Tipos de datos primitivos**
+- [x] **Tipos de datos primitivos**
 
   <details><summary>Links</summary><p>
 
   * [Valores primitivos - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures#valores_primitivos)
 </p></details>
 
-- [ ] **Strings (cadenas de caracteres)**
+- [x] **Strings (cadenas de caracteres)**
 
   <details><summary>Links</summary><p>
 
@@ -632,7 +640,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [String — Cadena de caracteres - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String)
 </p></details>
 
-- [ ] **Variables (declaración, asignación, ámbito)**
+- [x] **Variables (declaración, asignación, ámbito)**
 
   <details><summary>Links</summary><p>
 
@@ -640,7 +648,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Variables](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/02-variables)
 </p></details>
 
-- [ ] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
+- [x] **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
   <details><summary>Links</summary><p>
 
@@ -648,7 +656,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Tomando decisiones en tu código — condicionales - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals)
 </p></details>
 
-- [ ] **Uso de bucles/ciclos (while, for, for..of)**
+- [x] **Uso de bucles/ciclos (while, for, for..of)**
 
   <details><summary>Links</summary><p>
 
@@ -656,7 +664,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Bucles e iteración - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
 </p></details>
 
-- [ ] **Funciones (params, args, return)**
+- [x] **Funciones (params, args, return)**
 
   <details><summary>Links</summary><p>
 
@@ -666,14 +674,14 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [Funciones — bloques de código reutilizables - MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions)
 </p></details>
 
-- [ ] **Pruebas unitarias (unit tests)**
+- [x] **Pruebas unitarias (unit tests)**
 
   <details><summary>Links</summary><p>
 
   * [Empezando con Jest - Documentación oficial](https://jestjs.io/docs/es-ES/getting-started)
 </p></details>
 
-- [ ] **Módulos de ECMAScript (ES Modules)**
+- [x] **Módulos de ECMAScript (ES Modules)**
 
   <details><summary>Links</summary><p>
 
@@ -681,17 +689,17 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [export - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/export)
 </p></details>
 
-- [ ] **Uso de linter (ESLINT)**
+- [x] **Uso de linter (ESLINT)**
 
-- [ ] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
+- [x] **Uso de identificadores descriptivos (Nomenclatura y Semántica)**
 
 ### Control de Versiones (Git y GitHub)
 
-- [ ] **Git: Instalación y configuración**
+- [x] **Git: Instalación y configuración**
 
-- [ ] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
+- [x] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
 
-- [ ] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
+- [x] **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
 - [ ] **GitHub: Despliegue con GitHub Pages**
 
@@ -702,13 +710,13 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### Centrado en el usuario
 
-- [ ] **Diseñar y desarrollar un producto o servicio poniendo a las usuarias en el centro**
+- [x] **Diseñar y desarrollar un producto o servicio poniendo a las usuarias en el centro**
 
 ### Diseño de producto
 
-- [ ] **Diseñar en distintos niveles de fidelidad**
+- [x] **Diseñar en distintos niveles de fidelidad**
 
-- [ ] **Seguir los principios básicos de diseño visual**
+- [x] **Seguir los principios básicos de diseño visual**
 
 ## 10. Funcionalidades opcionales
 
