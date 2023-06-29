@@ -14,7 +14,6 @@
 * [10. Funcionalidades opcionales](#10-funcionalidades-opcionales)
 
 ***
-
 ## 1. Consideraciones generales
 
 * Este proyecto lo resolvemos de manera **individual**.
